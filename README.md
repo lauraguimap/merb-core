@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Add integrations/gradio Docs page (#7935)
