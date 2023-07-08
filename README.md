@@ -1,1 +1,1 @@
-ultralytics 8.1.28 avoid * ops on bool Tensors for RT-DETR OpenVINO export (#8937)
+New HUB Cloud Training docs page (#8174)
