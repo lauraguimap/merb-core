@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
