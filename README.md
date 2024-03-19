@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Elaborate Train and Predict mode docs arguments (#8137)
